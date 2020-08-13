@@ -69,4 +69,6 @@ user_groups:
 
 Shuochao Yao is an assistant professor of computer science at George Mason University. His research focuses on building physical-aware, resource-efficient, reliable, and predictable artificial intelligence systems for future intelligent Internet of Things (IoT) and Cyber-Physical Systems (CPS).
 
+I am looking for well-motivated students interested in bridging deep learning techniques to IoT/CPS. If you are interested in my research, please drop me an email.
+
 
