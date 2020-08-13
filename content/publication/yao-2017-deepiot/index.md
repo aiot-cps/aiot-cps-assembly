@@ -1,7 +1,7 @@
 ---
 title: "DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework"
 date: 2017-01-01
-publishDate: 2020-08-13T09:03:19.226984Z
+publishDate: 2020-08-13T09:05:38.191875Z
 authors: ["Shuochao Yao", "Yiran Zhao", "Aston Zhang", "Lu Su", "Tarek Abdelzaher"]
 publication_types: ["1"]
 abstract: ""

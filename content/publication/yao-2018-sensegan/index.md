@@ -1,7 +1,7 @@
 ---
 title: "SenseGAN: Enabling deep learning for internet of things with a semi-supervised framework"
 date: 2018-01-01
-publishDate: 2020-08-13T09:03:19.228766Z
+publishDate: 2020-08-13T09:05:38.193326Z
 authors: ["Shuochao Yao", "Yiran Zhao", "Huajie Shao", "Chao Zhang", "Aston Zhang", "Shaohan Hu", "Dongxin Liu", "Shengzhong Liu", "Lu Su", "Tarek Abdelzaher"]
 publication_types: ["2"]
 abstract: ""

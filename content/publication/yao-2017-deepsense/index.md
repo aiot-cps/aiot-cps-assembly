@@ -1,7 +1,7 @@
 ---
 title: "Deepsense: A unified deep learning framework for time-series mobile sensing data processing"
 date: 2017-01-01
-publishDate: 2020-08-13T09:03:19.229416Z
+publishDate: 2020-08-13T09:05:38.194021Z
 authors: ["Shuochao Yao", "Shaohan Hu", "Yiran Zhao", "Aston Zhang", "Tarek Abdelzaher"]
 publication_types: ["1"]
 abstract: ""
