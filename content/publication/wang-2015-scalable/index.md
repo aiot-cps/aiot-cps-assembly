@@ -1,7 +1,7 @@
 ---
 title: "Scalable social sensing of interdependent phenomena"
 date: 2015-01-01
-publishDate: 2020-08-13T07:05:41.401656Z
+publishDate: 2020-08-13T08:54:33.655933Z
 authors: ["Shiguang Wang", "Lu Su", "Shen Li", "Shaohan Hu", "Tanvir Amin", "Hongwei Wang", "Shuochao Yao", "Lance Kaplan", "Tarek Abdelzaher"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Simulation Evaluation of Fuel-Saving Systems in the City of Chicago"
 date: 2019-01-01
-publishDate: 2020-08-13T07:05:41.453636Z
+publishDate: 2020-08-13T08:54:33.699663Z
 authors: ["Yiran Zhao", "Shuochao Yao", "Dongxin Liu", "Huajie Shao", "Shengzhong Liu", "Tarek Abdelzaher"]
 publication_types: ["1"]
 abstract: ""

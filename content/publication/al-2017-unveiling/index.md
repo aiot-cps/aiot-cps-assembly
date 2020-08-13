@@ -1,7 +1,7 @@
 ---
 title: "Unveiling polarization in social networks: A matrix factorization approach"
 date: 2017-01-01
-publishDate: 2020-08-13T07:05:41.407360Z
+publishDate: 2020-08-13T08:54:33.663333Z
 authors: ["Md Tanvir Al Amin", "Charu Aggarwal", "Shuochao Yao", "Tarek Abdelzaher", "Lance Kaplan"]
 publication_types: ["1"]
 abstract: ""

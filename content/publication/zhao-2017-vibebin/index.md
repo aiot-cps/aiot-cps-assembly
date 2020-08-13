@@ -1,7 +1,7 @@
 ---
 title: "VibeBin: A vibration-based waste bin level detection system"
 date: 2017-01-01
-publishDate: 2020-08-13T07:05:41.420832Z
+publishDate: 2020-08-13T08:54:33.675440Z
 authors: ["Yiran Zhao", "Shuochao Yao", "Shen Li", "Shaohan Hu", "Huajie Shao", "Tarek F Abdelzaher"]
 publication_types: ["2"]
 abstract: ""

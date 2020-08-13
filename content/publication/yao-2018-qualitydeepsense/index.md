@@ -1,7 +1,7 @@
 ---
 title: "Qualitydeepsense: Quality-aware deep learning framework for internet of things applications with sensor-temporal attention"
 date: 2018-01-01
-publishDate: 2020-08-13T07:05:41.429000Z
+publishDate: 2020-08-13T08:54:33.683955Z
 authors: ["Shuochao Yao", "Yiran Zhao", "Shaohan Hu", "Tarek Abdelzaher"]
 publication_types: ["1"]
 abstract: ""

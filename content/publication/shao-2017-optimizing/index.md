@@ -1,7 +1,7 @@
 ---
 title: "Optimizing source selection in social sensing in the presence of influence graphs"
 date: 2017-01-01
-publishDate: 2020-08-13T07:05:41.416494Z
+publishDate: 2020-08-13T08:54:33.670895Z
 authors: ["Huajie Shao", "Shiguang Wang", "Shen Li", "Shuochao Yao", "Yiran Zhao", "Tanvir Amin", "Tarek Abdelzaher", "Lance Kaplan"]
 publication_types: ["1"]
 abstract: ""
