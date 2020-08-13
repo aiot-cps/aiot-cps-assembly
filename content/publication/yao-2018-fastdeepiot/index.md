@@ -1,11 +1,11 @@
 ---
 title: "Fastdeepiot: Towards understanding and optimizing neural network execution time on mobile and embedded devices"
-date: 2018-01-01
-publishDate: 2020-08-13T09:05:38.192596Z
+date: 2018-11-01
+publishDate: 2020-08-13T09:11:19.680950Z
 authors: ["Shuochao Yao", "Yiran Zhao", "Huajie Shao", "ShengZhong Liu", "Dongxin Liu", "Lu Su", "Tarek Abdelzaher"]
 publication_types: ["1"]
 abstract: ""
 featured: true
-publication: "*Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems*"
+publication: "*SenSys '18 Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems*"
 ---
 
